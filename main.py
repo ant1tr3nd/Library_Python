@@ -1,5 +1,8 @@
 print('Hello, world!')
 
-a = 1000
+A=1000
 
-print(a)
+print(A)
+A +=10
+
+print("Hello!")
